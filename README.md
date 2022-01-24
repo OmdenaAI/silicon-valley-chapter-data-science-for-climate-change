@@ -1,8 +1,5 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
 
-
-# [Chapter Challenge Name]
+# Mitigate Greenhouse Gases Emissions by reducing energy consumption of buildings
 
 
 ## Contribution Guidelines
